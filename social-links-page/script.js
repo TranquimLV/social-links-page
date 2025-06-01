@@ -65,6 +65,11 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'WhatsApp',
             url: 'https://wa.me/60136236986',
             icon: 'fab fa-whatsapp'
+        },
+        {
+            title: 'TikTok',
+            url: 'https://www.tiktok.com/@rheatrading',
+            icon: 'fab fa-tiktok'
         }
     ];
 
