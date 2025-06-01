@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: 'Instagram',
-            url: 'https://www.instagram.com/rhealuxury_',
+            url: 'https://www.instagram.com/rhealuxury_my?igsh=cHBrdXQ5eHd5b3Vq',
             icon: 'fab fa-instagram'
         },
         {
